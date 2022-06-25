@@ -4,6 +4,11 @@ Make Raja Ongkir using Java
 
 ## Preview App
 
-Main Screen                 |   Login or Sign Up       |  Login via GITHUB
+Main Screen                 |   Add Origin / Destination       |  Add Origin / Destination (2)
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/75843138/175769681-a6ec4b45-6624-43df-8bc4-1cf27e5d4dcd.png"> |<img src="https://user-images.githubusercontent.com/75843138/175751508-7cd7151f-313e-4a72-8b75-dc9d0d762b1e.png"> |<img src="https://user-images.githubusercontent.com/75843138/175751545-ed53381f-b0b3-4997-9681-6566036662d8.png">
+<img src="https://user-images.githubusercontent.com/75843138/175769681-a6ec4b45-6624-43df-8bc4-1cf27e5d4dcd.png"> |<img src="https://user-images.githubusercontent.com/75843138/175771097-0d4b3b11-5947-49ac-a4bf-8be6ab7b180d.png"> |<img src="https://user-images.githubusercontent.com/75843138/175771134-8fbd0186-49f6-4ddb-b3e2-f325e4fef6d1.png">
+
+
+Main Screen                 |  
+:-------------------------:|
+<img src="https://user-images.githubusercontent.com/75843138/175771160-04cdbdd5-2270-4c31-b09a-6152c9f1f3c8.png"> |
